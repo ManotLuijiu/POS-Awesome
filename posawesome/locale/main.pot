@@ -1,0 +1,1891 @@
+# Translations template for POS Awesome.
+# Copyright (C) 2025 Youssef Restom
+# This file is distributed under the same license as the POS Awesome project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: POS Awesome VERSION\n"
+"Report-Msgid-Bugs-To: youssef@totrox.com\n"
+"POT-Creation-Date: 2025-03-21 01:52+0642\n"
+"PO-Revision-Date: 2025-03-21 01:52+0642\n"
+"Last-Translator: youssef@totrox.com\n"
+"Language-Team: youssef@totrox.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:14
+msgid "- Total Outstanding"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:63
+msgid "- Total Unallocated"
+msgstr ""
+
+#. Header text in the POS Awesome Workspace
+#: posawesome/posawesome/workspace/pos_awesome/pos_awesome.json
+msgid "<span class=\"h4\">POS Awesome</span>"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/Navbar.vue:61
+msgid "About"
+msgstr ""
+
+#: posawesome/posawesome/doctype/pos_closing_shift/closing_shift_details.html:65
+msgid "Account"
+msgstr ""
+
+#. Label of a Link field in DocType 'POS Closing Shift Taxes'
+#: posawesome/posawesome/doctype/pos_closing_shift_taxes/pos_closing_shift_taxes.json
+msgid "Account Head"
+msgstr ""
+
+#. Name of a role
+#: posawesome/posawesome/doctype/mpesa_c2b_register_url/mpesa_c2b_register_url.json
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Accounts Manager"
+msgstr ""
+
+#. Name of a role
+#: posawesome/posawesome/doctype/mpesa_c2b_register_url/mpesa_c2b_register_url.json
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+#: posawesome/posawesome/doctype/referral_code/referral_code.json
+msgid "Accounts User"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/NewAddress.vue:7
+msgid "Add New Address"
+msgstr ""
+
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.js:41
+msgid "Add/Edit Coupon Conditions"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:332
+msgid "Additional Discount"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:351
+msgid "Additional Discount %"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:306
+#: posawesome/public/js/posapp/components/pos/Payments.vue:192
+msgid "Additional Notes"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:158
+msgid "Address"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/NewAddress.vue:18
+msgid "Address Line 1"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/NewAddress.vue:22
+msgid "Address Line 2"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/NewAddress.vue:14
+msgid "Address Name"
+msgstr ""
+
+#. Name of a role
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.json
+#: posawesome/posawesome/doctype/pos_opening_shift/pos_opening_shift.json
+msgid "Administrator"
+msgstr ""
+
+#. Label of a Link field in DocType 'Mpesa Payment Register'
+#. Label of a Link field in DocType 'POS Closing Shift'
+#. Label of a Link field in DocType 'POS Opening Shift'
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.json
+#: posawesome/posawesome/doctype/pos_opening_shift/pos_opening_shift.json
+msgid "Amended From"
+msgstr ""
+
+#. Label of a Currency field in DocType 'POS Closing Shift Taxes'
+#. Label of a Currency field in DocType 'POS Payment Entry Reference'
+#. Label of a Currency field in DocType 'Sales Invoice Reference'
+#: posawesome/posawesome/doctype/pos_closing_shift/closing_shift_details.html:41
+#: posawesome/posawesome/doctype/pos_closing_shift/closing_shift_details.html:67
+#: posawesome/posawesome/doctype/pos_closing_shift_taxes/pos_closing_shift_taxes.json
+#: posawesome/posawesome/doctype/pos_payment_entry_reference/pos_payment_entry_reference.json
+#: posawesome/posawesome/doctype/sales_invoice_reference/sales_invoice_reference.json
+#: posawesome/public/js/posapp/components/payments/Pay.vue:341
+#: posawesome/public/js/posapp/components/pos/Drafts.vue:83
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:458
+#: posawesome/public/js/posapp/components/pos/Mpesa-Payments.vue:69
+#: posawesome/public/js/posapp/components/pos/Returns.vue:70
+#: posawesome/public/js/posapp/components/pos/SalesOrders.vue:86
+msgid "Amount"
+msgstr ""
+
+#. Label of a Check field in DocType 'POS Coupon Detail'
+#: posawesome/posawesome/doctype/pos_coupon_detail/pos_coupon_detail.json
+#: posawesome/public/js/posapp/components/pos/ItemsSelector.vue:87
+#: posawesome/public/js/posapp/components/pos/PosCoupons.vue:55
+#: posawesome/public/js/posapp/components/pos/PosOffers.vue:69
+msgid "Applied"
+msgstr ""
+
+#. Label of a Section Break field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Apply For"
+msgstr ""
+
+#. Label of a Section Break field in DocType 'Delivery Charges'
+#: posawesome/posawesome/doctype/delivery_charges/delivery_charges.json
+msgid "Apply For POS Profiles"
+msgstr ""
+
+#. Label of a Data field in DocType 'POS Offer Detail'
+#: posawesome/posawesome/doctype/pos_offer_detail/pos_offer_detail.json
+#: posawesome/public/js/posapp/components/pos/PosOffers.vue:67
+msgid "Apply On"
+msgstr ""
+
+#. Label of a Link field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Apply Rule On Brand"
+msgstr ""
+
+#. Label of a Link field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Apply Rule On Item Code"
+msgstr ""
+
+#. Label of a Link field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Apply Rule On Item Group"
+msgstr ""
+
+#. Label of a Select field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Apply Type"
+msgstr ""
+
+#. Label of a Check field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Auto Apply"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:261
+msgid "Available Credit"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:221
+#: posawesome/public/js/posapp/components/pos/ItemsSelector.vue:246
+msgid "Available QTY"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:20
+#: posawesome/public/js/posapp/components/pos/PosCoupons.vue:32
+#: posawesome/public/js/posapp/components/pos/PosOffers.vue:43
+msgid "Back"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:262
+msgid "Batch No"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:257
+msgid "Batch No Expiry Date"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:252
+msgid "Batch No. Available QTY"
+msgstr ""
+
+#. Label of a Data field in DocType 'Mpesa Payment Register'
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+msgid "Bill Ref Number"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/UpdateCustomer.vue:43
+msgid "Birthday"
+msgstr ""
+
+#. Option for the 'Qualifying Transaction / Item' (Select) field in DocType
+#. 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Brand"
+msgstr ""
+
+#. Label of a Data field in DocType 'Mpesa Payment Register'
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+msgid "Business Short Code"
+msgstr ""
+
+#. Label of a Data field in DocType 'Mpesa C2B Register URL'
+#: posawesome/posawesome/doctype/mpesa_c2b_register_url/mpesa_c2b_register_url.json
+msgid "Business Shortcode"
+msgstr ""
+
+#. Label of a Link field in DocType 'POS Coupon'
+#. Label of a Link field in DocType 'Referral Code'
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+#: posawesome/posawesome/doctype/referral_code/referral_code.json
+msgid "Campaign"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:309
+msgid "Cancel Payment"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:387
+msgid "Cancel Sale"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:7
+msgid "Cancel Sale ?"
+msgstr ""
+
+#. Option for the 'Status' (Select) field in DocType 'POS Opening Shift'
+#: posawesome/posawesome/doctype/pos_opening_shift/pos_opening_shift.json
+msgid "Cancelled"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/ItemsSelector.vue:75
+msgid "Card"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:232
+msgid "Cashback?"
+msgstr ""
+
+#. Label of a Link field in DocType 'POS Closing Shift'
+#. Label of a Link field in DocType 'POS Opening Shift'
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.json
+#: posawesome/posawesome/doctype/pos_opening_shift/pos_opening_shift.json
+msgid "Cashier"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:44
+msgid "Charges not found"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/ClosingDialog.vue:47
+#: posawesome/public/js/posapp/components/pos/NewAddress.vue:39
+#: posawesome/public/js/posapp/components/pos/Payments.vue:330
+#: posawesome/public/js/posapp/components/pos/UpdateCustomer.vue:77
+msgid "Close"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/Navbar.vue:30
+msgid "Close Shift"
+msgstr ""
+
+#. Option for the 'Status' (Select) field in DocType 'POS Opening Shift'
+#: posawesome/posawesome/doctype/pos_opening_shift/pos_opening_shift.json
+msgid "Closed"
+msgstr ""
+
+#. Label of a Currency field in DocType 'POS Closing Shift Detail'
+#: posawesome/posawesome/doctype/pos_closing_shift_detail/pos_closing_shift_detail.json
+#: posawesome/public/js/posapp/components/pos/ClosingDialog.vue:82
+msgid "Closing Amount"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/ClosingDialog.vue:7
+msgid "Closing POS Shift"
+msgstr ""
+
+#. Label of a Link in the POS Awesome Workspace
+#: posawesome/posawesome/workspace/pos_awesome/pos_awesome.json
+msgid "Closing Shift"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/ItemsSelector.vue:240
+msgid "Code"
+msgstr ""
+
+#. Label of a Link field in DocType 'Delivery Charges'
+#. Label of a Link field in DocType 'Mpesa C2B Register URL'
+#. Label of a Link field in DocType 'Mpesa Payment Register'
+#. Label of a Link field in DocType 'POS Closing Shift'
+#. Label of a Link field in DocType 'POS Coupon'
+#. Label of a Link field in DocType 'POS Offer'
+#. Label of a Link field in DocType 'POS Opening Shift'
+#. Label of a Link field in DocType 'Referral Code'
+#: posawesome/posawesome/doctype/delivery_charges/delivery_charges.json
+#: posawesome/posawesome/doctype/mpesa_c2b_register_url/mpesa_c2b_register_url.json
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.json
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+#: posawesome/posawesome/doctype/pos_opening_shift/pos_opening_shift.json
+#: posawesome/posawesome/doctype/referral_code/referral_code.json
+#: posawesome/public/js/posapp/components/pos/OpeningDialog.vue:17
+msgid "Company"
+msgstr ""
+
+#: posawesome/posawesome/api/payment_entry.py:236
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.py:40
+msgid "Company is required"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:318
+msgid "Confirm Mobile Number"
+msgstr ""
+
+#. Label of a Link field in DocType 'Delivery Charges'
+#: posawesome/posawesome/doctype/delivery_charges/delivery_charges.json
+msgid "Cost Center"
+msgstr ""
+
+#: posawesome/posawesome/api/posapp.py:712
+msgid "Cost Center is not set in pos profile {}"
+msgstr ""
+
+#. Label of a Link field in DocType 'POS Coupon Detail'
+#. Label of a Link field in DocType 'POS Offer Detail'
+#: posawesome/posawesome/doctype/pos_coupon_detail/pos_coupon_detail.json
+#: posawesome/posawesome/doctype/pos_offer_detail/pos_offer_detail.json
+#: posawesome/public/js/posapp/components/pos/PosCoupons.vue:10
+#: posawesome/public/js/posapp/components/pos/PosCoupons.vue:52
+msgid "Coupon"
+msgstr ""
+
+#. Label of a Check field in DocType 'POS Offer Detail'
+#: posawesome/posawesome/doctype/pos_offer_detail/pos_offer_detail.json
+msgid "Coupon Based"
+msgstr ""
+
+#. Label of a Data field in DocType 'POS Coupon'
+#. Label of a Data field in DocType 'POS Coupon Detail'
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+#: posawesome/posawesome/doctype/pos_coupon_detail/pos_coupon_detail.json
+msgid "Coupon Code"
+msgstr ""
+
+#. Label of a Check field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Coupon Code Based"
+msgstr ""
+
+#. Label of a Text Editor field in DocType 'POS Coupon'
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+msgid "Coupon Description"
+msgstr ""
+
+#. Label of a Data field in DocType 'POS Coupon'
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+msgid "Coupon Name"
+msgstr ""
+
+#. Label of a Select field in DocType 'POS Coupon'
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+msgid "Coupon Type"
+msgstr ""
+
+#. Label of a Link in the POS Awesome Workspace
+#: posawesome/posawesome/workspace/pos_awesome/pos_awesome.json
+#: posawesome/public/js/posapp/components/pos/ItemsSelector.vue:80
+#: posawesome/public/js/posapp/components/pos/PosCoupons.vue:7
+msgid "Coupons"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/UpdateCustomer.vue:10
+msgid "Create Customer"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/OpeningDialog.vue:10
+msgid "Create POS Opening Shift"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:27
+msgid "Credit Change"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:229
+msgid "Credit Sale?"
+msgstr ""
+
+#. Label of a Link field in DocType 'Mpesa Payment Register'
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+msgid "Currency"
+msgstr ""
+
+#: posawesome/posawesome/api/payment_entry.py:37
+msgid "Currency is not correct, party account currency is {party_account_currency} and transaction currency is {currency}"
+msgstr ""
+
+#: posawesome/posawesome/api/payment_entry.py:238
+msgid "Currency is required"
+msgstr ""
+
+#. Label of a Link field in DocType 'Mpesa Payment Register'
+#. Label of a Link field in DocType 'POS Coupon'
+#. Label of a Link field in DocType 'POS Coupon Detail'
+#. Label of a Link field in DocType 'POS Payment Entry Reference'
+#. Label of a Link field in DocType 'Referral Code'
+#. Label of a Link field in DocType 'Sales Invoice Reference'
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+#: posawesome/posawesome/doctype/pos_coupon_detail/pos_coupon_detail.json
+#: posawesome/posawesome/doctype/pos_payment_entry_reference/pos_payment_entry_reference.json
+#: posawesome/posawesome/doctype/referral_code/referral_code.json
+#: posawesome/posawesome/doctype/sales_invoice_reference/sales_invoice_reference.json
+#: posawesome/public/js/posapp/components/payments/Pay.vue:247
+#: posawesome/public/js/posapp/components/payments/Pay.vue:285
+#: posawesome/public/js/posapp/components/pos/Customer.vue:4
+#: posawesome/public/js/posapp/components/pos/Drafts.vue:59
+#: posawesome/public/js/posapp/components/pos/Returns.vue:52
+#: posawesome/public/js/posapp/components/pos/SalesOrders.vue:62
+msgid "Customer"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/UpdateCustomer.vue:53
+msgid "Customer Group"
+msgstr ""
+
+#. Label of a Data field in DocType 'POS Coupon'
+#. Label of a Data field in DocType 'Referral Code'
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+#: posawesome/posawesome/doctype/referral_code/referral_code.json
+#: posawesome/public/js/posapp/components/pos/UpdateCustomer.vue:17
+msgid "Customer Name"
+msgstr ""
+
+#: posawesome/posawesome/api/posapp.py:1081
+msgid "Customer already exists"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/UpdateCustomer.vue:230
+msgid "Customer created successfully."
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/UpdateCustomer.vue:247
+msgid "Customer creation failed."
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/UpdateCustomer.vue:195
+msgid "Customer group is required."
+msgstr ""
+
+#: posawesome/posawesome/api/payment_entry.py:234
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.py:42
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.py:46
+msgid "Customer is required"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/UpdateCustomer.vue:188
+msgid "Customer name is required."
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/UpdateCustomer.vue:202
+msgid "Customer territory is required."
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/UpdateCustomer.vue:232
+msgid "Customer updated successfully."
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Customer.vue:5
+msgid "Customers not found"
+msgstr ""
+
+#. Label of a Date field in DocType 'POS Payment Entry Reference'
+#. Label of a Date field in DocType 'Sales Invoice Reference'
+#: posawesome/posawesome/doctype/pos_payment_entry_reference/pos_payment_entry_reference.json
+#: posawesome/posawesome/doctype/sales_invoice_reference/sales_invoice_reference.json
+#: posawesome/public/js/posapp/components/payments/Pay.vue:253
+#: posawesome/public/js/posapp/components/payments/Pay.vue:291
+#: posawesome/public/js/posapp/components/payments/Pay.vue:335
+#: posawesome/public/js/posapp/components/pos/Drafts.vue:65
+#: posawesome/public/js/posapp/components/pos/Mpesa-Payments.vue:75
+#: posawesome/public/js/posapp/components/pos/Returns.vue:58
+#: posawesome/public/js/posapp/components/pos/SalesOrders.vue:68
+msgid "Date"
+msgstr ""
+
+#. Label of a Data field in DocType 'Mpesa Payment Register'
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+msgid "Default Currency"
+msgstr ""
+
+#. Label of a Link field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Default Loyalty Program"
+msgstr ""
+
+#. Label of a Currency field in DocType 'Delivery Charges'
+#: posawesome/posawesome/doctype/delivery_charges/delivery_charges.json
+msgid "Default Rate"
+msgstr ""
+
+#: posawesome/posawesome/doctype/delivery_charges/delivery_charges.py:13
+msgid "Default Rate is required"
+msgstr ""
+
+#. Name of a DocType
+#. Label of a Card Break in the POS Awesome Workspace
+#. Label of a Link in the POS Awesome Workspace
+#: posawesome/posawesome/doctype/delivery_charges/delivery_charges.json
+#: posawesome/posawesome/workspace/pos_awesome/pos_awesome.json
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:43
+msgid "Delivery Charges"
+msgstr ""
+
+#. Name of a DocType
+#: posawesome/posawesome/doctype/delivery_charges_pos_profile/delivery_charges_pos_profile.json
+msgid "Delivery Charges POS Profile"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:56
+msgid "Delivery Charges Rate"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:281
+#: posawesome/public/js/posapp/components/pos/Payments.vue:147
+msgid "Delivery Date"
+msgstr ""
+
+#. Label of a Small Text field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Description"
+msgstr ""
+
+#. Label of a Section Break field in DocType 'POS Closing Shift'
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.json
+msgid "Details"
+msgstr ""
+
+#. Label of a Currency field in DocType 'POS Closing Shift Detail'
+#: posawesome/posawesome/doctype/pos_closing_shift_detail/pos_closing_shift_detail.json
+#: posawesome/public/js/posapp/components/pos/ClosingDialog.vue:118
+msgid "Difference"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:187
+msgid "Difference:"
+msgstr ""
+
+#. Label of a Check field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Disable"
+msgstr ""
+
+#. Label of a Check field in DocType 'Delivery Charges'
+#. Label of a Check field in DocType 'Referral Code'
+#: posawesome/posawesome/doctype/delivery_charges/delivery_charges.json
+#: posawesome/posawesome/doctype/referral_code/referral_code.json
+msgid "Disabled"
+msgstr ""
+
+#. Option for the 'Discount Type' (Select) field in DocType 'POS Offer'
+#. Label of a Float field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:192
+#: posawesome/public/js/posapp/components/pos/Payments.vue:129
+msgid "Discount Amount"
+msgstr ""
+
+#. Option for the 'Discount Type' (Select) field in DocType 'POS Offer'
+#. Label of a Float field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:169
+msgid "Discount Percentage"
+msgstr ""
+
+#. Label of a Select field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Discount Type"
+msgstr ""
+
+#. Option for the 'Status' (Select) field in DocType 'POS Opening Shift'
+#: posawesome/posawesome/doctype/pos_opening_shift/pos_opening_shift.json
+msgid "Draft"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:259
+#: posawesome/public/js/posapp/components/pos/Payments.vue:237
+msgid "Due Date"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/ClosingDialog.vue:22
+#: posawesome/public/js/posapp/components/pos/OpeningDialog.vue:31
+msgid "Edit"
+msgstr ""
+
+#. Label of a Data field in DocType 'POS Coupon'
+#. Label of a Data field in DocType 'Referral Code'
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+#: posawesome/posawesome/doctype/referral_code/referral_code.json
+msgid "Email ID"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/UpdateCustomer.vue:29
+msgid "Email Id"
+msgstr ""
+
+#. Label of a Currency field in DocType 'POS Closing Shift Detail'
+#: posawesome/posawesome/doctype/pos_closing_shift_detail/pos_closing_shift_detail.json
+#: posawesome/public/js/posapp/components/pos/ClosingDialog.vue:112
+msgid "Expected Amount"
+msgstr ""
+
+#. Option for the 'Register Status' (Select) field in DocType 'Mpesa C2B
+#. Register URL'
+#: posawesome/posawesome/doctype/mpesa_c2b_register_url/mpesa_c2b_register_url.json
+msgid "Failed"
+msgstr ""
+
+#. Label of a Link field in DocType 'Referral Code'
+#: posawesome/posawesome/doctype/referral_code/referral_code.json
+msgid "Final Customer Offer"
+msgstr ""
+
+#. Label of a Data field in DocType 'Mpesa Payment Register'
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+msgid "First Name"
+msgstr ""
+
+#. Label of a Data field in DocType 'Mpesa Payment Register'
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+#: posawesome/public/js/posapp/components/payments/Pay.vue:323
+#: posawesome/public/js/posapp/components/pos/Mpesa-Payments.vue:10
+#: posawesome/public/js/posapp/components/pos/Mpesa-Payments.vue:57
+msgid "Full Name"
+msgstr ""
+
+#. Option for the 'Coupon Type' (Select) field in DocType 'POS Coupon'
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+msgid "Gift Card"
+msgstr ""
+
+#. Label of a Link field in DocType 'POS Offer Detail'
+#: posawesome/posawesome/doctype/pos_offer_detail/pos_offer_detail.json
+#: posawesome/public/js/posapp/components/pos/PosOffers.vue:28
+msgid "Give Item"
+msgstr ""
+
+#. Label of a Data field in DocType 'POS Offer Detail'
+#: posawesome/posawesome/doctype/pos_offer_detail/pos_offer_detail.json
+msgid "Give Item Row ID"
+msgstr ""
+
+#. Option for the 'Promo Type' (Select) field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Give Product"
+msgstr ""
+
+#. Label of a Float field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Given Quantity"
+msgstr ""
+
+#. Label of a Currency field in DocType 'POS Closing Shift'
+#. Option for the 'Promo Type' (Select) field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_closing_shift/closing_shift_details.html:15
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.json
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+#: posawesome/public/js/posapp/components/pos/Payments.vue:134
+msgid "Grand Total"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:225
+msgid "Group"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/UpdateCustomer.vue:54
+msgid "Group not found"
+msgstr ""
+
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.py:41
+msgid "Invalid Opening Entry"
+msgstr ""
+
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.py:32
+msgid "Invalid Period"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:241
+#: posawesome/public/js/posapp/components/pos/Drafts.vue:77
+#: posawesome/public/js/posapp/components/pos/Returns.vue:64
+msgid "Invoice"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Returns.vue:12
+msgid "Invoice ID"
+msgstr ""
+
+#. Label of a Data field in DocType 'Mpesa Payment Register'
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+msgid "Invoice Number"
+msgstr ""
+
+#: posawesome/posawesome/api/posapp.py:888
+msgid "Invoice {0} Deleted"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:13
+msgid "Invoices"
+msgstr ""
+
+#. Option for the 'Qualifying Transaction / Item' (Select) field in DocType
+#. 'POS Offer'
+#. Option for the 'Apply Type' (Select) field in DocType 'POS Offer'
+#. Label of a Link field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:123
+msgid "Item Code"
+msgstr ""
+
+#. Option for the 'Qualifying Transaction / Item' (Select) field in DocType
+#. 'POS Offer'
+#. Option for the 'Apply Type' (Select) field in DocType 'POS Offer'
+#. Label of a Link field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Item Group"
+msgstr ""
+
+#. Option for the 'Promo Type' (Select) field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Item Price"
+msgstr ""
+
+#. Label of a Float field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Item Rate Should Less Then"
+msgstr ""
+
+#. Label of a Small Text field in DocType 'POS Offer Detail'
+#: posawesome/posawesome/doctype/pos_offer_detail/pos_offer_detail.json
+msgid "Items"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:360
+msgid "Items Discounts"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/ItemsSelector.vue:69
+msgid "Items Group"
+msgstr ""
+
+#. Label of a Data field in DocType 'Delivery Charges'
+#: posawesome/posawesome/doctype/delivery_charges/delivery_charges.json
+msgid "Label"
+msgstr ""
+
+#. Label of a Data field in DocType 'Mpesa Payment Register'
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+msgid "Last Name"
+msgstr ""
+
+#. Label of a Section Break field in DocType 'POS Closing Shift'
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.json
+msgid "Linked Invoices"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/ItemsSelector.vue:74
+msgid "List"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:379
+msgid "Load Draft sales"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Drafts.vue:10
+msgid "Load Sales Invoice"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Drafts.vue:15
+msgid "Load previously saved invoices"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/Navbar.vue:53
+msgid "Logout"
+msgstr ""
+
+#. Option for the 'Promo Type' (Select) field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Loyalty Point"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:2208
+msgid "Loyalty Point Offer Applied"
+msgstr ""
+
+#. Label of a Section Break field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Loyalty Point Scheme"
+msgstr ""
+
+#. Label of a Int field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+#: posawesome/public/js/posapp/components/pos/UpdateCustomer.vue:68
+msgid "Loyalty Points"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/UpdateCustomer.vue:64
+msgid "Loyalty Program"
+msgstr ""
+
+#. Label of a Data field in DocType 'Mpesa Payment Register'
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+msgid "MSISDN"
+msgstr ""
+
+#. Label of a Float field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Max Amount"
+msgstr ""
+
+#. Label of a Float field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Max Quantity"
+msgstr ""
+
+#. Label of a Int field in DocType 'POS Coupon'
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+msgid "Maximum Use"
+msgstr ""
+
+#. Label of a Data field in DocType 'Mpesa Payment Register'
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+msgid "Middle Name"
+msgstr ""
+
+#. Label of a Float field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Min Amount"
+msgstr ""
+
+#. Label of a Float field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Min Quantity"
+msgstr ""
+
+#. Label of a Data field in DocType 'POS Coupon'
+#. Label of a Data field in DocType 'Referral Code'
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+#: posawesome/posawesome/doctype/referral_code/referral_code.json
+msgid "Mobile NO"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Mpesa-Payments.vue:12
+#: posawesome/public/js/posapp/components/pos/Mpesa-Payments.vue:63
+#: posawesome/public/js/posapp/components/pos/UpdateCustomer.vue:25
+msgid "Mobile No"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:323
+msgid "Mobile Number"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:297
+msgid "Mode"
+msgstr ""
+
+#. Label of a Data field in DocType 'POS Payment Entry Reference'
+#: posawesome/posawesome/doctype/pos_payment_entry_reference/pos_payment_entry_reference.json
+msgid "Mode Of Payment"
+msgstr ""
+
+#. Label of a Link field in DocType 'Mpesa C2B Register URL'
+#. Label of a Link field in DocType 'Mpesa Payment Register'
+#. Label of a Link field in DocType 'POS Closing Shift Detail'
+#. Label of a Link field in DocType 'POS Opening Shift Detail'
+#: posawesome/posawesome/doctype/mpesa_c2b_register_url/mpesa_c2b_register_url.json
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+#: posawesome/posawesome/doctype/pos_closing_shift/closing_shift_details.html:40
+#: posawesome/posawesome/doctype/pos_closing_shift_detail/pos_closing_shift_detail.json
+#: posawesome/posawesome/doctype/pos_opening_shift_detail/pos_opening_shift_detail.json
+#: posawesome/public/js/posapp/components/pos/ClosingDialog.vue:70
+#: posawesome/public/js/posapp/components/pos/OpeningDialog.vue:70
+msgid "Mode of Payment"
+msgstr ""
+
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.py:44
+msgid "Mode of Payment is required"
+msgstr ""
+
+#: posawesome/posawesome/doctype/pos_closing_shift/closing_shift_details.html:35
+msgid "Mode of Payments"
+msgstr ""
+
+#. Label of a Section Break field in DocType 'POS Closing Shift'
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.json
+msgid "Modes of Payment"
+msgstr ""
+
+#. Name of a DocType
+#: posawesome/posawesome/doctype/mpesa_c2b_register_url/mpesa_c2b_register_url.json
+msgid "Mpesa C2B Register URL"
+msgstr ""
+
+#. Name of a DocType
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+msgid "Mpesa Payment Register"
+msgstr ""
+
+#. Label of a Link field in DocType 'Mpesa C2B Register URL'
+#: posawesome/posawesome/doctype/mpesa_c2b_register_url/mpesa_c2b_register_url.json
+msgid "Mpesa Settings"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:450
+#: posawesome/public/js/posapp/components/pos/ItemsSelector.vue:234
+#: posawesome/public/js/posapp/components/pos/PosOffers.vue:66
+msgid "Name"
+msgstr ""
+
+#. Label of a Currency field in DocType 'POS Closing Shift'
+#: posawesome/posawesome/doctype/pos_closing_shift/closing_shift_details.html:19
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.json
+#: posawesome/public/js/posapp/components/pos/Payments.vue:114
+msgid "Net Total"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/PosOffers.vue:163
+msgid "New Offer Available"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:329
+msgid "Nobile Number"
+msgstr ""
+
+#. Label of a Data field in DocType 'POS Offer Detail'
+#: posawesome/posawesome/doctype/pos_offer_detail/pos_offer_detail.json
+#: posawesome/public/js/posapp/components/pos/PosCoupons.vue:54
+#: posawesome/public/js/posapp/components/pos/PosOffers.vue:68
+msgid "Offer"
+msgstr ""
+
+#. Label of a Check field in DocType 'POS Offer Detail'
+#: posawesome/posawesome/doctype/pos_offer_detail/pos_offer_detail.json
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:237
+msgid "Offer Applied"
+msgstr ""
+
+#. Label of a Link field in DocType 'POS Offer Detail'
+#: posawesome/posawesome/doctype/pos_offer_detail/pos_offer_detail.json
+msgid "Offer Name"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:459
+msgid "Offer?"
+msgstr ""
+
+#. Label of a Link in the POS Awesome Workspace
+#: posawesome/posawesome/workspace/pos_awesome/pos_awesome.json
+#: posawesome/public/js/posapp/components/pos/ItemsSelector.vue:85
+#: posawesome/public/js/posapp/components/pos/PosOffers.vue:5
+msgid "Offers"
+msgstr ""
+
+#. Label of a Card Break in the POS Awesome Workspace
+#: posawesome/posawesome/workspace/pos_awesome/pos_awesome.json
+msgid "Offers &amp; Coupons"
+msgstr ""
+
+#. Label of a Check field in DocType 'POS Coupon'
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+msgid "Only One Use Per Customer"
+msgstr ""
+
+#. Option for the 'Status' (Select) field in DocType 'POS Opening Shift'
+#: posawesome/posawesome/doctype/pos_opening_shift/pos_opening_shift.json
+msgid "Open"
+msgstr ""
+
+#. Label of a Currency field in DocType 'POS Closing Shift Detail'
+#. Label of a Currency field in DocType 'POS Opening Shift Detail'
+#: posawesome/posawesome/doctype/pos_closing_shift_detail/pos_closing_shift_detail.json
+#: posawesome/posawesome/doctype/pos_opening_shift_detail/pos_opening_shift_detail.json
+#: posawesome/public/js/posapp/components/pos/ClosingDialog.vue:76
+#: posawesome/public/js/posapp/components/pos/OpeningDialog.vue:76
+msgid "Opening Amount"
+msgstr ""
+
+#. Label of a Table field in DocType 'POS Opening Shift'
+#: posawesome/posawesome/doctype/pos_opening_shift/pos_opening_shift.json
+msgid "Opening Balance Details"
+msgstr ""
+
+#. Label of a Link in the POS Awesome Workspace
+#: posawesome/posawesome/workspace/pos_awesome/pos_awesome.json
+msgid "Opening Shift"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/SalesOrders.vue:80
+msgid "Order"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/SalesOrders.vue:16
+msgid "Order ID"
+msgstr ""
+
+#. Label of a Data field in DocType 'Mpesa Payment Register'
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+msgid "Org Account Balance"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:271
+msgid "Outstanding"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:396
+msgid "PAY"
+msgstr ""
+
+#. Label of a Card Break in the POS Awesome Workspace
+#: posawesome/posawesome/workspace/pos_awesome/pos_awesome.json
+msgid "POS"
+msgstr ""
+
+#. Name of a Workspace
+#. Label of a Link in the POS Awesome Workspace
+#: posawesome/config/desktop.py:13 posawesome/config/pos_awesome.py:7
+#: posawesome/posawesome/workspace/pos_awesome/pos_awesome.json
+msgid "POS Awesome"
+msgstr ""
+
+#. Label of a Link in the POS Awesome Workspace
+#. Label of a shortcut in the POS Awesome Workspace
+#: posawesome/posawesome/workspace/pos_awesome/pos_awesome.json
+msgid "POS Awesome App"
+msgstr ""
+
+#: posawesome/posawesome/api/payment_entry.py:230
+msgid "POS Awesome Payments is not enabled for this POS Profile"
+msgstr ""
+
+#. Name of a DocType
+#. Label of a Data field in DocType 'POS Opening Shift'
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.json
+#: posawesome/posawesome/doctype/pos_opening_shift/pos_opening_shift.json
+msgid "POS Closing Shift"
+msgstr ""
+
+#. Name of a DocType
+#: posawesome/posawesome/doctype/pos_closing_shift_detail/pos_closing_shift_detail.json
+msgid "POS Closing Shift Detail"
+msgstr ""
+
+#. Name of a DocType
+#: posawesome/posawesome/doctype/pos_closing_shift_taxes/pos_closing_shift_taxes.json
+msgid "POS Closing Shift Taxes"
+msgstr ""
+
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.py:29
+msgid "POS Closing Shift {} against {} between selected period"
+msgstr ""
+
+#. Name of a DocType
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+msgid "POS Coupon"
+msgstr ""
+
+#. Name of a DocType
+#: posawesome/posawesome/doctype/pos_coupon_detail/pos_coupon_detail.json
+msgid "POS Coupon Detail"
+msgstr ""
+
+#. Label of a Link field in DocType 'POS Coupon'
+#. Label of a Link field in DocType 'POS Coupon Detail'
+#. Name of a DocType
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+#: posawesome/posawesome/doctype/pos_coupon_detail/pos_coupon_detail.json
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "POS Offer"
+msgstr ""
+
+#. Name of a DocType
+#: posawesome/posawesome/doctype/pos_offer_detail/pos_offer_detail.json
+msgid "POS Offer Detail"
+msgstr ""
+
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.py:38
+msgid "POS Offer is disable."
+msgstr ""
+
+#. Label of a Link field in DocType 'POS Closing Shift'
+#. Name of a DocType
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.json
+#: posawesome/posawesome/doctype/pos_opening_shift/pos_opening_shift.json
+msgid "POS Opening Shift"
+msgstr ""
+
+#. Name of a DocType
+#: posawesome/posawesome/doctype/pos_opening_shift_detail/pos_opening_shift_detail.json
+msgid "POS Opening Shift Detail"
+msgstr ""
+
+#: posawesome/posawesome/api/payment_entry.py:242
+msgid "POS Opening Shift is required"
+msgstr ""
+
+#: posawesome/posawesome/api/invoice.py:257
+msgid "POS Opening Shift {0} is not for the same POS Profile"
+msgstr ""
+
+#: posawesome/posawesome/api/invoice.py:264
+msgid "POS Opening Shift {0} is not for the same company"
+msgstr ""
+
+#. Name of a DocType
+#: posawesome/posawesome/doctype/pos_payment_entry_reference/pos_payment_entry_reference.json
+msgid "POS Payment Entry Reference"
+msgstr ""
+
+#. Label of a Table field in DocType 'POS Closing Shift'
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.json
+msgid "POS Payments"
+msgstr ""
+
+#. Label of a Link field in DocType 'Delivery Charges POS Profile'
+#. Label of a Link field in DocType 'POS Closing Shift'
+#. Label of a Link field in DocType 'POS Offer'
+#. Label of a Link field in DocType 'POS Opening Shift'
+#. Label of a Link in the POS Awesome Workspace
+#: posawesome/posawesome/doctype/delivery_charges_pos_profile/delivery_charges_pos_profile.json
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.json
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+#: posawesome/posawesome/doctype/pos_opening_shift/pos_opening_shift.json
+#: posawesome/posawesome/workspace/pos_awesome/pos_awesome.json
+#: posawesome/public/js/posapp/components/pos/OpeningDialog.vue:21
+msgid "POS Profile"
+msgstr ""
+
+#: posawesome/posawesome/api/payment_entry.py:240
+msgid "POS Profile is required"
+msgstr ""
+
+#: posawesome/posawesome/doctype/pos_opening_shift/pos_opening_shift.py:20
+msgid "POS Profile {} does not belongs to company {}"
+msgstr ""
+
+#. Label of a Table field in DocType 'Delivery Charges'
+#: posawesome/posawesome/doctype/delivery_charges/delivery_charges.json
+msgid "POS Profiles"
+msgstr ""
+
+#: posawesome/posawesome/api/invoice.py:253
+msgid "POS Shift {0} is not open"
+msgstr ""
+
+#. Label of a Table field in DocType 'POS Closing Shift'
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.json
+msgid "POS Transactions"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:303
+msgid "Paid"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:9
+msgid "Paid Amount"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:20
+msgid "Paid Change"
+msgstr ""
+
+#. Label of a Link field in DocType 'Mpesa Payment Register'
+#. Label of a Link field in DocType 'POS Payment Entry Reference'
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+#: posawesome/posawesome/doctype/pos_payment_entry_reference/pos_payment_entry_reference.json
+msgid "Payment Entry"
+msgstr ""
+
+#: posawesome/posawesome/api/posapp.py:1649
+msgid "Payment Entry is already created or payment account is not matched"
+msgstr ""
+
+#: posawesome/posawesome/api/posapp.py:1536
+msgid "Payment Gateway Account not found"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:279
+#: posawesome/public/js/posapp/components/payments/Pay.vue:317
+msgid "Payment ID"
+msgstr ""
+
+#. Label of a Table field in DocType 'POS Closing Shift'
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.json
+msgid "Payment Reconciliation"
+msgstr ""
+
+#: posawesome/posawesome/api/posapp.py:1608
+msgid "Payment Request for {0}"
+msgstr ""
+
+#: posawesome/posawesome/api/posapp.py:1460
+msgid "Payment amount cannot be less than or equal to 0"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:61
+msgid "Payments"
+msgstr ""
+
+#. Option for the 'Register Status' (Select) field in DocType 'Mpesa C2B
+#. Register URL'
+#: posawesome/posawesome/doctype/mpesa_c2b_register_url/mpesa_c2b_register_url.json
+msgid "Pending"
+msgstr ""
+
+#. Label of a Datetime field in DocType 'POS Closing Shift'
+#. Label of a Date field in DocType 'POS Opening Shift'
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.json
+#: posawesome/posawesome/doctype/pos_opening_shift/pos_opening_shift.json
+msgid "Period End Date"
+msgstr ""
+
+#. Label of a Datetime field in DocType 'POS Closing Shift'
+#. Label of a Datetime field in DocType 'POS Opening Shift'
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.json
+#: posawesome/posawesome/doctype/pos_opening_shift/pos_opening_shift.json
+msgid "Period Start Date"
+msgstr ""
+
+#: posawesome/posawesome/api/posapp.py:1463
+msgid "Please enter the phone number first"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:543
+msgid "Please make a payment or select an payment"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:401
+msgid "Please request phone payment or use other payment method"
+msgstr ""
+
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.py:36
+msgid "Please select Coupon Code Based POS Offer."
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:535
+msgid "Please select a customer"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:550
+msgid "Please select an invoice"
+msgstr ""
+
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.py:33
+msgid "Please select the correct POS Offer with the same company."
+msgstr ""
+
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.py:29
+msgid "Please select the customer."
+msgstr ""
+
+#. Label of a Date field in DocType 'Mpesa Payment Register'
+#. Label of a Date field in DocType 'POS Closing Shift'
+#. Label of a Date field in DocType 'POS Opening Shift'
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.json
+#: posawesome/posawesome/doctype/pos_opening_shift/pos_opening_shift.json
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:66
+msgid "Posting Date"
+msgstr ""
+
+#. Label of a Time field in DocType 'Mpesa Payment Register'
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+msgid "Posting Time"
+msgstr ""
+
+#. Label of a Section Break field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Price Discount Scheme "
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:216
+msgid "Price list Rate"
+msgstr ""
+
+#. Label of a Link field in DocType 'Referral Code'
+#: posawesome/posawesome/doctype/referral_code/referral_code.json
+msgid "Primary Customer Offer"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:399
+msgid "Print Draft"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/Navbar.vue:43
+msgid "Print Last Invoice"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:580
+msgid "Processing Payment"
+msgstr ""
+
+#. Label of a Section Break field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Product Discount Scheme"
+msgstr ""
+
+#. Label of a Card Break in the POS Awesome Workspace
+#: posawesome/posawesome/workspace/pos_awesome/pos_awesome.json
+msgid "Profile"
+msgstr ""
+
+#. Label of a Code field in DocType 'Delivery Charges'
+#: posawesome/posawesome/doctype/delivery_charges/delivery_charges.json
+msgid "Profiles List"
+msgstr ""
+
+#. Label of a Select field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Promo Type"
+msgstr ""
+
+#. Option for the 'Coupon Type' (Select) field in DocType 'POS Coupon'
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+msgid "Promotional"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:201
+msgid "Purchase Order"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:208
+msgid "Purchase Order Date"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:127
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:455
+#: posawesome/public/js/posapp/components/pos/ItemsSelector.vue:14
+msgid "QTY"
+msgstr ""
+
+#. Label of a Select field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Qualifying Transaction / Item"
+msgstr ""
+
+#. Label of a Section Break field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Quantity and Amount Conditions"
+msgstr ""
+
+#. Label of a Currency field in DocType 'Delivery Charges POS Profile'
+#. Label of a Percent field in DocType 'POS Closing Shift Taxes'
+#. Option for the 'Discount Type' (Select) field in DocType 'POS Offer'
+#. Label of a Float field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/delivery_charges_pos_profile/delivery_charges_pos_profile.json
+#: posawesome/posawesome/doctype/pos_closing_shift/closing_shift_details.html:66
+#: posawesome/posawesome/doctype/pos_closing_shift_taxes/pos_closing_shift_taxes.json
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:145
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:457
+#: posawesome/public/js/posapp/components/pos/ItemsSelector.vue:245
+msgid "Rate"
+msgstr ""
+
+#: posawesome/posawesome/api/posapp.py:529
+msgid "Rate cannot be zero for item {0}"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:266
+msgid "Redeem Credit"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:81
+msgid "Redeem Loyalty Points"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:99
+msgid "Redeemed Customer Credit"
+msgstr ""
+
+#. Label of a Link field in DocType 'POS Coupon'
+#. Name of a DocType
+#. Label of a Data field in DocType 'Referral Code'
+#. Label of a Link in the POS Awesome Workspace
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+#: posawesome/posawesome/doctype/referral_code/referral_code.json
+#: posawesome/posawesome/workspace/pos_awesome/pos_awesome.json
+#: posawesome/public/js/posapp/components/pos/UpdateCustomer.vue:36
+msgid "Referral Code"
+msgstr ""
+
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.py:48
+msgid "Referral Code is required"
+msgstr ""
+
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.py:62
+msgid "Referral Code {0} is disabled"
+msgstr ""
+
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.py:59
+msgid "Referral Code {0} is not exists"
+msgstr ""
+
+#. Label of a Data field in DocType 'Referral Code'
+#: posawesome/posawesome/doctype/referral_code/referral_code.json
+msgid "Referral Name"
+msgstr ""
+
+#. Label of a Select field in DocType 'Mpesa C2B Register URL'
+#: posawesome/posawesome/doctype/mpesa_c2b_register_url/mpesa_c2b_register_url.json
+msgid "Register Status"
+msgstr ""
+
+#. Label of a Check field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Replace Cheapest Item"
+msgstr ""
+
+#. Label of a Check field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Replace Same Item"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:68
+#: posawesome/public/js/posapp/components/pos/Payments.vue:333
+msgid "Request"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:139
+msgid "Rounded Total"
+msgstr ""
+
+#: posawesome/posawesome/api/posapp.py:691
+msgid "Row #{0}: The batch {1} has only {2} qty. Please select another batch which has {3} qty available or split the row into multiple rows, to deliver/issue from multiple batches"
+msgstr ""
+
+#. Label of a Data field in DocType 'POS Offer Detail'
+#: posawesome/posawesome/doctype/pos_offer_detail/pos_offer_detail.json
+msgid "Row ID"
+msgstr ""
+
+#. Label of a Link field in DocType 'Sales Invoice Reference'
+#: posawesome/posawesome/doctype/sales_invoice_reference/sales_invoice_reference.json
+msgid "Sales Invoice"
+msgstr ""
+
+#. Name of a DocType
+#: posawesome/posawesome/doctype/sales_invoice_reference/sales_invoice_reference.json
+msgid "Sales Invoice Reference"
+msgstr ""
+
+#. Name of a role
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.json
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+#: posawesome/posawesome/doctype/pos_opening_shift/pos_opening_shift.json
+#: posawesome/posawesome/doctype/referral_code/referral_code.json
+msgid "Sales Manager"
+msgstr ""
+
+#. Name of a role
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Sales Master Manager"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:276
+msgid "Sales Person"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:278
+msgid "Sales Person not found"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:392
+msgid "Sales Return"
+msgstr ""
+
+#: posawesome/posawesome/doctype/pos_closing_shift/closing_shift_details.html:8
+msgid "Sales Summary"
+msgstr ""
+
+#. Name of a role
+#: posawesome/posawesome/doctype/mpesa_c2b_register_url/mpesa_c2b_register_url.json
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Sales User"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:375
+msgid "Save and Clear"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:37
+#: posawesome/public/js/posapp/components/payments/Pay.vue:121
+#: posawesome/public/js/posapp/components/pos/Mpesa-Payments.vue:15
+#: posawesome/public/js/posapp/components/pos/Returns.vue:14
+#: posawesome/public/js/posapp/components/pos/SalesOrders.vue:18
+msgid "Search"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/ItemsSelector.vue:9
+msgid "Search Items"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:97
+msgid "Search Mpesa Payments"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:116
+msgid "Search by Mobile"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:112
+msgid "Search by Name"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Returns.vue:31
+msgid "Select"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Mpesa-Payments.vue:6
+msgid "Select Payment"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Returns.vue:7
+msgid "Select Return Invoice"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:383
+msgid "Select S.O"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/SalesOrders.vue:10
+msgid "Select Sales Orders"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/PosCoupons.vue:75
+msgid "Select a customer to use coupon"
+msgstr ""
+
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.py:40
+msgid "Selected POS Opening Shift should be open."
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:248
+msgid "Serial No"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:241
+msgid "Serial No QTY"
+msgstr ""
+
+#. Label of a Check field in DocType 'POS Opening Shift'
+#: posawesome/posawesome/doctype/pos_opening_shift/pos_opening_shift.json
+msgid "Set Posting Date"
+msgstr ""
+
+#. Label of a Card Break in the POS Awesome Workspace
+#: posawesome/posawesome/workspace/pos_awesome/pos_awesome.json
+msgid "Shift"
+msgstr ""
+
+#. Label of a Link field in DocType 'Delivery Charges'
+#: posawesome/posawesome/doctype/delivery_charges/delivery_charges.json
+msgid "Shipping Account"
+msgstr ""
+
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.py:123
+msgid "Sorry, this coupon code cannot be used by this company"
+msgstr ""
+
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.py:119
+msgid "Sorry, this coupon code cannot be used by this customer"
+msgstr ""
+
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.py:102
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.py:106
+msgid "Sorry, this coupon code is no longer valid"
+msgstr ""
+
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.py:87
+msgid "Sorry, this coupon code not exists"
+msgstr ""
+
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.py:99
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.py:114
+msgid "Sorry, this coupon code's validity has expired"
+msgstr ""
+
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.py:95
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.py:110
+msgid "Sorry, this coupon code's validity has not started"
+msgstr ""
+
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.py:137
+msgid "Sorry, {0} have used this coupon before"
+msgstr ""
+
+#. Label of a Select field in DocType 'POS Opening Shift'
+#: posawesome/posawesome/doctype/pos_opening_shift/pos_opening_shift.json
+msgid "Status"
+msgstr ""
+
+#: posawesome/posawesome/api/status_updater.py:15
+msgid "Status must be one of {0}"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:229
+msgid "Stock QTY"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:233
+msgid "Stock UOM"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:198
+#: posawesome/public/js/posapp/components/pos/ClosingDialog.vue:50
+#: posawesome/public/js/posapp/components/pos/Mpesa-Payments.vue:35
+#: posawesome/public/js/posapp/components/pos/NewAddress.vue:42
+#: posawesome/public/js/posapp/components/pos/Payments.vue:300
+#: posawesome/public/js/posapp/components/pos/UpdateCustomer.vue:80
+msgid "Submit"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:305
+msgid "Submit & Print"
+msgstr ""
+
+#. Label of a Check field in DocType 'Mpesa Payment Register'
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+msgid "Submit Payment "
+msgstr ""
+
+#. Option for the 'Register Status' (Select) field in DocType 'Mpesa C2B
+#. Register URL'
+#: posawesome/posawesome/doctype/mpesa_c2b_register_url/mpesa_c2b_register_url.json
+msgid "Success"
+msgstr ""
+
+#. Name of a role
+#: posawesome/posawesome/doctype/delivery_charges/delivery_charges.json
+#: posawesome/posawesome/doctype/mpesa_c2b_register_url/mpesa_c2b_register_url.json
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.json
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+#: posawesome/posawesome/doctype/pos_opening_shift/pos_opening_shift.json
+#: posawesome/posawesome/doctype/referral_code/referral_code.json
+msgid "System Manager"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/UpdateCustomer.vue:21
+msgid "Tax ID"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:119
+msgid "Tax and Charges"
+msgstr ""
+
+#. Label of a Table field in DocType 'POS Closing Shift'
+#: posawesome/posawesome/doctype/pos_closing_shift/closing_shift_details.html:60
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.json
+msgid "Taxes"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/UpdateCustomer.vue:59
+msgid "Territory"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/UpdateCustomer.vue:60
+msgid "Territory not found"
+msgstr ""
+
+#. Label of a Data field in DocType 'Mpesa Payment Register'
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+msgid "Third Party Trans ID"
+msgstr ""
+
+#: posawesome/posawesome/api/customer.py:51
+msgid "This Referral Code {0} not exists"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/PosCoupons.vue:85
+msgid "This coupon already used !"
+msgstr ""
+
+#: posawesome/posawesome/api/posapp.py:886
+msgid "This invoice {0} cannot be deleted"
+msgstr ""
+
+#. Label of a Data field in DocType 'Mpesa C2B Register URL'
+#: posawesome/posawesome/doctype/mpesa_c2b_register_url/mpesa_c2b_register_url.json
+msgid "Till Number"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Drafts.vue:71
+#: posawesome/public/js/posapp/components/pos/SalesOrders.vue:74
+msgid "Time"
+msgstr ""
+
+#. Label of a Data field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Title"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:265
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:366
+msgid "Total"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:124
+msgid "Total Amount"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:144
+msgid "Total Invoices:"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:163
+msgid "Total Mpesa:"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:154
+msgid "Total Payments:"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:320
+msgid "Total Qty"
+msgstr ""
+
+#. Label of a Float field in DocType 'POS Closing Shift'
+#: posawesome/posawesome/doctype/pos_closing_shift/closing_shift_details.html:23
+#: posawesome/posawesome/doctype/pos_closing_shift/pos_closing_shift.json
+msgid "Total Quantity"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:21
+#: posawesome/public/js/posapp/components/payments/Pay.vue:71
+#: posawesome/public/js/posapp/components/payments/Pay.vue:102
+msgid "Total Selected :"
+msgstr ""
+
+#. Label of a Float field in DocType 'Mpesa Payment Register'
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+msgid "Trans Amount"
+msgstr ""
+
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.py:38
+msgid "Trans Amount is required"
+msgstr ""
+
+#. Label of a Data field in DocType 'Mpesa Payment Register'
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+msgid "Trans ID"
+msgstr ""
+
+#. Label of a Data field in DocType 'Mpesa Payment Register'
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+msgid "Trans Time"
+msgstr ""
+
+#. Option for the 'Qualifying Transaction / Item' (Select) field in DocType
+#. 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Transaction"
+msgstr ""
+
+#. Label of a Data field in DocType 'Mpesa Payment Register'
+#: posawesome/posawesome/doctype/mpesa_payment_register/mpesa_payment_register.json
+msgid "Transaction Type"
+msgstr ""
+
+#. Label of a Data field in DocType 'POS Coupon Detail'
+#: posawesome/posawesome/doctype/pos_coupon_detail/pos_coupon_detail.json
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:35
+#: posawesome/public/js/posapp/components/pos/PosCoupons.vue:53
+msgid "Type"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:136
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:456
+#: posawesome/public/js/posapp/components/pos/ItemsSelector.vue:247
+msgid "UOM"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/payments/Pay.vue:309
+msgid "Unallocated"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/UpdateCustomer.vue:7
+msgid "Update Customer"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:246
+msgid "Use Customer Credit"
+msgstr ""
+
+#. Label of a Int field in DocType 'POS Coupon'
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+msgid "Used"
+msgstr ""
+
+#: posawesome/posawesome/doctype/pos_opening_shift/pos_opening_shift.py:23
+msgid "User {} has been disabled. Please select valid user/cashier"
+msgstr ""
+
+#. Label of a Date field in DocType 'POS Coupon'
+#. Label of a Date field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Valid From"
+msgstr ""
+
+#. Label of a Date field in DocType 'POS Coupon'
+#. Label of a Date field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Valid Upto"
+msgstr ""
+
+#. Label of a Section Break field in DocType 'POS Coupon'
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+msgid "Validity and Usage"
+msgstr ""
+
+#. Label of a Link field in DocType 'POS Offer'
+#: posawesome/posawesome/doctype/pos_offer/pos_offer.json
+msgid "Warehouse"
+msgstr ""
+
+#. Name of a role
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+#: posawesome/posawesome/doctype/referral_code/referral_code.json
+msgid "Website Manager"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:226
+msgid "Write Off Difference Amount"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Invoice.vue:17
+msgid "Yes, Cancel sale"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:105
+msgid "You can redeem credit upto"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/Payments.vue:85
+msgid "You can redeem upto"
+msgstr ""
+
+#: posawesome/public/js/posapp/components/pos/PosCoupons.vue:14
+msgid "add"
+msgstr ""
+
+#. Description of the 'Coupon Name' (Data) field in DocType 'POS Coupon'
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+msgid "e.g. \"Summer Holiday 2019 Offer 20\""
+msgstr ""
+
+#. Description of the 'Coupon Code' (Data) field in DocType 'POS Coupon'
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.json
+msgid "unique e.g. SAVE20  To be used to get discount"
+msgstr ""
+
+#: posawesome/posawesome/doctype/pos_coupon/pos_coupon.py:160
+msgid "{0} Coupon used are {1}. Allowed quantity is exhausted"
+msgstr ""
+
